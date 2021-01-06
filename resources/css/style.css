@@ -1,5 +1,5 @@
 /*
-Orange color: #847ae2
+Orange color: #e43ad6
 
 */
 
@@ -85,7 +85,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #847ae2;
+    background-color: #e43ad6;
     content: " ";
     width: 100px;
     margin: 0 auto;
@@ -109,7 +109,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #847ae2;
+    color: #e43ad6;
     margin-bottom: 10px;
 }
 
@@ -117,7 +117,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #847ae2;
+    color: #e43ad6;
     font-size: 120%;
     margin-right: 10px;
     
@@ -131,10 +131,10 @@ h2:after {
 
 a:link,
 a:visited {
-    color: #847ae2;
+    color: #e43ad6;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #847ae2;
+    border-bottom: 1px solid #e43ad6;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -161,33 +161,33 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #847ae2;
-    border: 1px solid #847ae2;
+    background-color: #e43ad6;
+    border: 1px solid #e43ad6;
     color: #fff;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #847ae2;
-    color: #847ae2;
+    border: 1px solid #e43ad6;
+    color: #e43ad6;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #847ae2;
+    background-color: #e43ad6;
 }
 
 .btn-full:hover,
 .btn-full:active {
-    border: 1px solid #847ae2;
+    border: 1px solid #e43ad6;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #847ae2;
+    border: 1px solid #e43ad6;
     color: #fff;
 }
 
@@ -205,7 +205,7 @@ header {
     background-attachment: fixed;
 }
 
-.hero-text-box{
+.hero-text-box-56465 {
     position: absolute;
     width: 1140px;
     top: 50%;
@@ -256,7 +256,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #847ae2;
+    border-bottom: 2px solid #e43ad6;
 }
 
 
@@ -309,7 +309,7 @@ header {
 /* MEALS */
 /* ----------------------------------------------- */
 
-.section-meals4564 {
+.section-meals-4545 {
     padding: 0;
 }
 
@@ -388,11 +388,11 @@ header {
 }
 
 .works-step div {
-    color: #847ae2;
+    color: #e43ad6;
     font-size: 150%;
     height: 54px;
     width: 54px;
-    border: 2px solid #847ae2;
+    border: 2px solid #e43ad6;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
@@ -432,7 +432,7 @@ header {
 /* TESTIMONIALS */
 /* ----------------------------------------------- */
 
-.section-testimonials {
+.section-testimonials-zzzz {
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers-min.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers-min.jpg);
     background-size: cover;
@@ -508,7 +508,7 @@ cite img {
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #847ae2;
+    color: #e43ad6;
 }
 
 .plan-price span {
